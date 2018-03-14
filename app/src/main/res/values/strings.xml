@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="title">Poof!!</string>
+    <string name="inst">Click to know</string>
 </resources>
